@@ -1,0 +1,31 @@
+{
+  "questions": [
+    {
+      "question": "What is the least possible error in using a rule graduated in centimeters?",
+      "optionA": "0.1 cm",
+      "optionB": "0.5 cm",
+      "optionC": "1.0 cm",
+      "optionD": "2.0 cm",
+      "answer": "0.1 cm",
+      "id": 1
+    },
+    {
+      "question": "The Energy contained in a wire when it is extended by 0.02m by a force of 500N is ?",
+      "optionA": "5J",
+      "optionB": "10J",
+      "optionC": "1000J",
+      "optionD": "10000J",
+      "answer": "5J",
+      "id": 2
+    },
+    {
+      "question": "A light of  energy 5eV falls on a  metal and the electron with a maximum kinetic energy  of 2eV are ejected. The work function of the metal is ?",
+      "optionA": "0.4eV",
+      "optionB": "2.5eV",
+      "optionC": "3.0eV",
+      "optionD": "7.0eV",
+      "answer": "3.0eV",
+      "id": 3
+    }
+  ]
+}
